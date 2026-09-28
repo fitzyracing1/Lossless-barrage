@@ -1,2 +1,5 @@
 # Lossless-barrage
-Barrage plain-language clone of fitzyracing1/Lossless
+
+Barrage clone of [fitzyracing1/Lossless](https://github.com/fitzyracing1/Lossless).
+
+Read [listing.barrage](listing.barrage).

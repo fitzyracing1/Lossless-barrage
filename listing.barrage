@@ -1,0 +1,39 @@
+# Lossless
+
+> A source repo named Lossless. This wrap keeps the name and points back to the original files.
+
+## Purpose
+Give a human-readable door to fitzyracing1/Lossless so the project can be opened without guessing from the title alone.
+
+## How it works (plain English)
+1. Keep the original repo as the place for code.
+2. Use this clone only to explain the idea in everyday words.
+3. Send the reader back to the source for any run.
+
+## Key ideas
+- Lossless (nothing important is thrown away)
+- Wrap (this page explains; it does not replace)
+
+## The actual code
+```
+# source: fitzyracing1/Lossless
+open_source()
+keep_all_bits_that_matter()
+```
+
+## Line-by-line translation
+1. open_source() → “go to the original repo for the files”
+2. keep_all_bits_that_matter() → “do not throw away the payload the name promises to keep”
+
+## Decisions the program makes
+- If a reader needs the program → send them to the source repo
+- If a reader needs the idea → stay on this listing
+
+## What a person would notice
+A named wrap that refuses to hide the original.
+
+## Current status
+Barrage clone. Source had no public one-line description at wrap time.
+
+## Next possible steps
+Open fitzyracing1/Lossless and read the README there.
